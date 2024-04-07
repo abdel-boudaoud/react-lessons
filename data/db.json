@@ -1,0 +1,41 @@
+{
+    "blogs": [
+      {
+        "title": "10 Tips for Better Sleep",
+        "body": "In this blog post, we explore ten practical tips for improving your sleep quality. From creating a calming bedtime routine to optimizing your sleep environment, these tips will help you wake up feeling refreshed and energized.",
+        "author": "Abdelkader",
+        "id": 1
+      },
+      {
+        "title": "How to Start Your Own Business",
+        "body": "Discover the essential steps to turn your business idea into reality. This comprehensive guide covers everything from market research and business planning to funding options and marketing strategies, empowering you to launch a successful venture.",
+        "author": "Dodicam",
+        "id": 2
+      },
+      {
+        "title": "The Benefits of Regular Exercise",
+        "body": "Learn about the numerous physical and mental health benefits of incorporating regular exercise into your lifestyle. From improving cardiovascular health and boosting mood to reducing stress and enhancing cognitive function, discover why exercise is essential for overall well-being.",
+        "author": "Abdelkader",
+        "id": 3
+      },
+      {
+        "title": "Healthy Eating Habits",
+        "body": "Explore the fundamentals of maintaining a nutritious diet and cultivating healthy eating habits. From mindful eating and portion control to incorporating a variety of nutrient-rich foods, this blog post provides practical tips for achieving optimal health through balanced nutrition.",
+        "author": "Abdelkader",
+        "id": 4
+      },
+      {
+        "title": "Traveling on a Budget",
+        "body": "Embark on exciting adventures without breaking the bank! This blog post offers valuable tips and tricks for budget-friendly travel, including finding affordable accommodations, saving on transportation costs, and maximizing your travel experiences while staying within your budget.",
+        "author": "Dodicam",
+        "id": 5
+      },
+      {
+        "title": "Finding Inner Peace",
+        "body": "Discover strategies for cultivating inner peace and harmony in today's fast-paced world. From mindfulness practices and meditation techniques to fostering gratitude and embracing simplicity, this blog post offers insights and exercises to help you find serenity amidst life's challenges.",
+        "author": "Dodicam",
+        "id": 6
+      }
+    ]
+  }
+  
